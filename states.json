@@ -47,7 +47,7 @@
     "latitude" :20.9492,
     "longitude" : -48.4825
   },
-{
+  {
     "key" : "BEBEDOURO-IMESB",
     "name" : "Bebedouro IMESB",
     "latitude" : -20.9381,
@@ -139,7 +139,7 @@
   },
   {
     "key" : "EMBUGUACU-PM",
-"name":"Embu Guaçu Prefeitura",
+    "name":"Embu Guaçu Prefeitura",
     "latitude" : -23.8180,
     "longitude" : -46.8148
   },
@@ -214,7 +214,7 @@
     "name" : "Itapeva Previdencia"
     "latitude" : -23.9828
     "longitude" : -48.8780
-    },
+  },
   {
     "key" : "ITAPEVI-PM",
     "name" : "Itapevi Prefeitura",
@@ -226,7 +226,7 @@
    "name" : "Itaquaquecetuba Prefeitura Municipal",
     "latitude" : -23.4787,
     "longitude" : -46.3531
-    },
+  },
   {
     "key" : "ITAQUAQUECETUBA PREV",
     "name" : "Itaquaquecetuba Previdencia",
@@ -238,7 +238,7 @@
     "name" : "Itaquaquecetuba Câmara",
     "latitude" : -23.4856,
     "longitude" : -46.3513
-    },
+  },
   {
     "key" : "ITIRAPINA-PM",
     "name" : "Itirapina Prefeitura",
@@ -250,7 +250,7 @@
     "name" : "Itú Prefeitura",
     "latitude" : -23.3807,
     "longitude" : -47.3481
-    },
+  },
   {
     "key" : "JANDIRA-PM",
     "name" : "Jandira Prefeitura",
@@ -262,7 +262,7 @@
     "name" : "Jaú Prefeitura",
     "latitude" : -22.2953,
     "longitude" : -48.5587
-    },
+  },
   {
     "key" : "JAÚ-PREV",
     "name" : "Jaú Previdencia",
@@ -274,7 +274,7 @@
     "name" : "Jaquery Fundação",
     "latitude" : -23.3266,
     "longitude" : -46.7237
-    },
+  },
   {
   "key" : "LENÇÓISPAULISTA-PM",
    "name": "Lençoís Paulista Prefeitura",
@@ -286,7 +286,7 @@
     "name" : "Lençoís Paulista Previdencia",
     "latitude" : -22.5919,
     "longitude" : -48.8064
-    },
+  },
   {
     "key" : "LENÇÓISPAULISTA-SAAE",
     "name" : "Lençoís Paulista Estação de tratamento de água",
@@ -298,7 +298,7 @@
     "name" :"lencois paulista Guarujá Centro Municipal de Formação Profissional",
     "latitude" : -22.6107,
     "longitude" : -48.8019
-    },
+  },
   {
     "key" : "LENÇÓISPAULISTA-CM",
     "name" : "Lençóis Paulista Câmara Municipal",
@@ -310,7 +310,7 @@
     "name" : "Limeira Prefeitura",
     "latitude" : -22.5726,
     "longitude" : -47.4091
-    },
+  },
   {
     "key" : "LIMEIRA-WEB",
     "name" : "Limeira WEB",
@@ -322,7 +322,7 @@
     "name" : "Limeira Emdel",
     "latitude" : -22.5726,
     "longitude" : -47.4091
-    },
+  },
   {
     "key" : "LIMEIRA-CEPROSOM",
     "name" : "Limeira Centro de Promoção Social Municipal",
@@ -334,7 +334,7 @@
     "name" : "Macatuba Câmara Municipal ",
     "latitude" : -22.4992,
     "longitude" : -48.7077
-    },
+  },
   {
     "key" : "MAIRIPORÃ-PM",
     "name" : "Mairiporã Prefeitura",
@@ -346,7 +346,7 @@
     "name" : "Mogi das Cruzes Câmara Municipal ",
     "latitude" : -23.5187,
     "longitude" : -46.1842
-    },
+  },
   {
     "key" : "MOGIGUAÇU-PM",
     "name" : "Mogi Guaçu Prefeitura",
@@ -358,7 +358,7 @@
     "name" : "Nova Campina Prefeitura",
     "latitude" : -24.1193, 
     "longitude" : -48.9074
-    },
+  },
   {
     "key" : "NOVACAMPINA-CM",
     "name" : "Nova Campina Câmara Munincipal",
@@ -370,7 +370,7 @@
     "name" : "Piquete Prefeitura",
     "latitude" : -22.6164,
     "longitude" : -45.1715
-    },
+  },
   {
     "key" : "POA-PM",
     "name" : "Poá Prefeitura",
@@ -382,7 +382,7 @@
     "name" : "Porto Ferreira Câmara Municipal",
     "latitude" : -21.8509, 
     "longitude" : -47.4853
-    },
+  },
   {
     "key" : "PORTOFERREIRA-ARMPF",
     "name" : "Porto Ferreira Agência Reguladora de Serviços Públicos do Município de Porto Ferreira ",
@@ -394,13 +394,13 @@
     "name" : "Praia Grande Prefeitura",
     "latitude" : -24.0305, 
     "longitude" : -46.4935
-    },
+  },
   {
     "key" : "PRAIAGRANDE-PREV",
     "name" : "Praia Grande Previdencia",
     "latitude" : -24.0132,
     "longitude" : -46.4639
-    },
+  },
   {
     "key" : "PRAIAGRANDE-CM",
     "name" : "Praia Grande Câmara",
@@ -412,7 +412,7 @@
     "name" : "Rio Claro Prefeitura",
     "latitude" : -22.4033, 
     "longitude" : -47.5594
-    },
+  },
   {
     "key" : "RIOCLARO-PREV",
     "name" : "Rio Claro Previdencia",
@@ -424,7 +424,7 @@
     "name" : "Rio Claro Saúde", 
     "latitude" : -22.3957, 
     "longitude" : -47.5672
-    },
+  },
   {
     "key" : "SALTO-CÂMARA",
     "name" : "Salto Câmara",     
@@ -436,7 +436,7 @@
     "name" : "Santa Cruz da Esperança Prefeitura",
     "latitude" : -21.2921,
     "longitude" : -47.4304
-    },
+  },
   {
     "key" : "SANTOANTONIODAALEGRIA-PM",
     "name" : "Santo Antônio da Alegria Prefeitura",
@@ -448,7 +448,7 @@
     "name" : "Santo Antônio do Jardim Prefeitura ",
     "latitude" : -22.1134,
     "longitude" : -46.6834
-    },
+  },
   {
     "key" : "SANTOANTONIODOJARDIM-CM",
     "name" : "Santo Antônio do Jardim Câmara",
@@ -460,7 +460,7 @@
     "name" : "São Carlos Câmara",
     "latitude" : -22.0141,
     "longitude" : -47.8901
-    },
+  },
   {
     "key" : "SOROCABA-PM",
     "name" : "Sorocaba Prefeitura",
@@ -472,7 +472,7 @@
     "name" : "Sorocaba Câmara Municipal",
     "latitude" : -23.4763,
     "longitude" : -47.4240
-    },
+  },
   {
     "key" : "SOROCABA-SAUDE",
     "name" : "Sorocaba Saude",   
@@ -484,7 +484,7 @@
     "name" : "Sorocaba Previdencia",
     "latitude" : -23.47847,
     "longitude" : -47.4726
-    },
+  },
   {
     "key" : "SOROCABA-PARQUE",
     "name" : "Sorocaba Parque munincipal",
@@ -496,7 +496,7 @@
     "name" : "Sorocaba Serviço Autônomo de Água e Esgoto",
     "latitude" : -23.4623,
     "longitude" : -47.4531
-    },
+  },
   {
     "key" : "SOROCABA-URBES",
     "name" : "Sorocaba URBES",  
@@ -508,7 +508,7 @@
     "name" : "Taboão da serra prefeitura",
     "latitude" : -23.6061,
     "longitude" : -46.7583
-    },
+  },
   {
     "key" : "TABOÃODASERRA-PREV",
     "name" : "Taboão da Serra Previdencia",
@@ -520,7 +520,7 @@
     "name" : "Taubate Prefeitura",
     "latitude" : -23.0306,
     "longitude" : -45.5653
-    },
+  },
   {
     "key" : "TAUBATE PREV",
     "name" : "Taubate Previdencia",
@@ -532,7 +532,7 @@
     "name" : "Taubate Câmara", 
     "latitude" : -23.0313,
     "longitude" : -45.5687
-    },
+  },
   {
     "key" : "TAQUARITINGA-PM",
     "name" : "Taquaritinga Prefeitura",
@@ -544,7 +544,7 @@
     "name" : "Tiete Prefeitura", 
     "latitude" : -23.0967,
     "longitude" : -47.7154
-    },
+  },
   {
     "key" : "TIETE-DP",
     "name" : "Tiete Departamento Pessoal",
@@ -556,7 +556,7 @@
     "name" : "Varginha Prefeitura",
     "latitude" : -21.5443,
     "longitude" : -45.4444
-    },
+  },
   {
     "key" : "VARGINHA-PREV",
     "name" : "Varginha Previdencia",
@@ -568,7 +568,7 @@
     "name" : "Varginha Semul", 
     "latitude" : -21.5624,
     "longitude" : -45.4347
-    },
+  },
   {
     "key" : "VARGINHA-FUNCULT",
     "name" : "Varginha Fundação Cultural",
