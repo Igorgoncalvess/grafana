@@ -18,565 +18,565 @@
     "longitude" : -49.0691
   },
   {
-    "key" : "BARRABONITA-PM",
+    "key" : "BARRABONITAPM",
     "name" : "Barra Bonita Prefeitura",
     "latitude" : -22.4940,
     "longitude" : -48.5616
   },
   {
-    "key" : "BATATAIS-PM",
+    "key" : "BATATAISPM",
     "name" : "Batatais Prefeitura",
     "latitude" : -20.8870,
     "longitude" : -47.5863
   },
   {
-    "key" : "BATATAIS-DP",
+    "key" : "BATATAISDP",
     "name" : "Batatais Departamento Pessoal",
     "latitude" : -20.8870,
     "longitude" : -47.5863
   },
   {
-    "key" : "BAURU-FUNPREV",
+    "key" : "BAURUFUNPREV",
     "name" : "Bauru Funprev",
     "latitude" : -22.3320,
     "longitude" : -49.0691
   },
   {
-    "key" : "BEBEDOURO-PM",
+    "key" : "BEBEDOUROPM",
     "name" : "Bebedouro Prefeitura",
     "latitude" :20.9492,
     "longitude" : -48.4825
   },
   {
-    "key" : "BEBEDOURO-IMESB",
+    "key" : "BEBEDOUROIMESB",
     "name" : "Bebedouro IMESB",
     "latitude" : -20.9381,
     "longitude" : -48.5023
   },
   {
-      "key" : "BEBEDOURO-SAAEB",
+      "key" : "BEBEDOUROSAAEB",
     "name" : "Bebedouro Serviço Autonomo de Água e Esgoto de Bebedouro",
     "latitude" : -20.9481,
     "longitude" : -48.4888
   },
   {
-    "key" : "BEBEDOURO-SASEMB",
+    "key" : "BEBEDOUROSASEMB",
     "name" : "Bebedouro SASEMB",
     "latitude" : 20.9492,
     "longitude" : -48.4825
   },
   {
-    "key" : "CABREUVA-PM",
+    "key" : "CABREUVAPM",
     "name" : "Cabreúva Prefeitura",
     "latitude" : -23.3010,
     "longitude" : -47.1318
   },
   {
-    "key" : "CACAPAVA-PM",
+    "key" : "CACAPAVAPM",
     "name" : "Caçapava Prefeitura",
     "latitude" : -23.0959,
     "longitude" : -45.7073
   },
   {
-    "key" : "CACAPAVA-PREV",
+    "key" : "CACAPAVAPREV",
     "name" : "Caçapava Previdencia",
     "latitude" : -23.1014,
     "longitude" : -45.7102
   },
   {
-    "key" : "CACAPAVA-FUSAM",
+    "key" : "CACAPAVAFUSAM",
     "name" : "Caçapava Fundação de Saúde e Assistência do Município ",
     "latitude" : -23.1042,
     "longitude" : -45.7051
   },
   {
-    "key" : "CAIEIRAS-PM",
+    "key" : "CAIEIRASPM",
     "name" : "Caieiras Prefeitura",
     "latitude" : -23.3656,
     "longitude" : -46.7495
   },
   {
-    "key" : "CAIEIRAS-PREV",
+    "key" : "CAIEIRASPREV",
     "name" : "Caieiras Previdencia",
     "latitude" : -23.3630,
     "longitude" : -46.7430
   },
   {
-    "key" : "CAJURU-PM",
+    "key" : "CAJURUPM",
     "name" : "Cajuru Prefeitura",
     "latitude" : -21.2772,
     "longitude" : -47.3041
   },
   {
-    "key" : "CIOESTE-PM",
+    "key" : "CIOESTEPM",
     "name" : "Cioeste Prefeitura",
     "latitude" : -23.4848,
     "longitude" : -46.8683
   },
   {
-    "key" : "CORDEIROPOLIS-PM",
+    "key" : "CORDEIROPOLISPM",
     "name" : "Cordeiropolis Prefeitura",
     "latitude" : -22.4819,
     "longitude" : -47.4538
   },
   {
-    "key" : "CORDEIROPOLIS-SAAE",
+    "key" : "CORDEIROPOLISSAAE",
     "name" : "Cordeiropolis Serviço Autônomo de Água e Esgoto",
     "latitude" : -22.4820,
     "longitude" : -47.4588
   },
   {
-    "key" : "COTIA-PM",
+    "key" : "COTIAPM",
     "name" : "Cotia Prefeitura",
     "latitude" : -23.5881,
     "longitude" : -46.9189
   },
   {
-    "key" : "CUBATAO-PREV",
+    "key" : "CUBATAOPREV",
     "name" : "Cubatão Previdencia",
     "latitude" : -23.8846,
     "longitude" : -46.4259
   },
   {
-    "key" : "EMBUGUACU-PM",
+    "key" : "EMBUGUACUPM",
     "name":"Embu Guaçu Prefeitura",
     "latitude" : -23.8180,
     "longitude" : -46.8148
   },
   {
-    "key" : "FERRAZDEVASCONCELOS-PM",
+    "key" : "FERRAZDEVASCONCELOSPM",
     "name" : "Ferraz de Vascocelos Prefeitura",
     "latitude" : -23.5460,
     "longitude" : -46.3721
   },
   {
-    "key" : "FERRAZDEVASCONCELOS-CM",
+    "key" : "FERRAZDEVASCONCELOSCM",
     "name" : "Ferraz de Vanconcelos Camara Munincipal",
     "latitude" : -23.5439,
     "longitude" : -46.3689
   },
   {
-    "key" : "GUARUJÁ-PM",
+    "key" : "GUARUJÁPM",
     "name" : "Guarujá Prefeitura",
     "latitude" : -23.9807,
     "longitude" : -46.2645
   },
   {
-    "key" : "GUARUJÁ PREV",
+    "key" : "GUARUJÁPREV",
     "name" : "Guarujá Previdencia",
     "latitude" : -23.9895,
     "longitude" : -46.2624
   },
   {
-    "key" : "IGARAÇUDOTIETE-PM",
+    "key" : "IGARAÇUDOTIETEPM",
     "name" : "Igaraçu do Tiete Prefeitura",
     "latitude" : -22.5166,
     "longitude" : -48.5518
   },
   {
-    "key" : "IGARAÇUDOTIETE-PREV",
+    "key" : "IGARAÇUDOTIETEPREV",
     "name" : "Igaraçu do Tiete Previdencia",
     "latitude" : -22.5143,
     "longitude" : -48.5624
   }
   {
-    "key" : "ITAPECERICADASERRA-PM",
+    "key" : "ITAPECERICADASERRAPM",
     "name" : "Itapecerica da serra Prefeitura",
     "latitude" : -23.7034,
     "longitude" : -46.8545
   },
   {
-    "key" : "ITAPECERICADASERRA-PREV",
+    "key" : "ITAPECERICADASERRAPREV",
     "name" : "Itapecirica da serra Previdencia",
     "latitude" : -23.7070,
     "longitude" : -46.8497
   },
   {
-    "key" : "ITAPECERIA-SAUDE",
+    "key" : "ITAPECERIASAUDE",
     "name" : "Itapecerica Saude"
     "latitude" : -23.7142,
     "longitude" : -46.8509
   },
   {
-    "key" : "ITAPECERICA-CM",
+    "key" : "ITAPECERICACM",
     "name" : "Itapecirica Câmara",
     "latitude" : -23.7169,
     "longitude" : -46.8490
   },
   {
-    "key" : "ITAPEVA-PM",
+    "key" : "ITAPEVAPM",
     "name" : "Itapeva Prefeitura",
     "latitude" : -23.9773,
     "longitude" : -48.8752
   },
   {
-    "key" : "ITAPEVA-PREV",
+    "key" : "ITAPEVAPREV",
     "name" : "Itapeva Previdencia"
     "latitude" : -23.9828
     "longitude" : -48.8780
   },
   {
-    "key" : "ITAPEVI-PM",
+    "key" : "ITAPEVIPM",
     "name" : "Itapevi Prefeitura",
     "latitude" : -23.5361,
     "longitude" : -46.9393
   },
   {
-    "key" : "ITAQUAQUECETUBA-PM",
+    "key" : "ITAQUAQUECETUBAPM",
    "name" : "Itaquaquecetuba Prefeitura Municipal",
     "latitude" : -23.4787,
     "longitude" : -46.3531
   },
   {
-    "key" : "ITAQUAQUECETUBA PREV",
+    "key" : "ITAQUAQUECETUBAPREV",
     "name" : "Itaquaquecetuba Previdencia",
     "latitude" : -23.4850, 
     "longitude" : -46.3511
   },
   {
-    "key" : "ITAQUAQUECETUBA-CM",
+    "key" : "ITAQUAQUECETUBACM",
     "name" : "Itaquaquecetuba Câmara",
     "latitude" : -23.4856,
     "longitude" : -46.3513
   },
   {
-    "key" : "ITIRAPINA-PM",
+    "key" : "ITIRAPINAPM",
     "name" : "Itirapina Prefeitura",
     "latitude" : -22.2557,
     "longitude" : -47.8184
   },
   {
-    "key" : "ITU-PM",
+    "key" : "ITUPM",
     "name" : "Itú Prefeitura",
     "latitude" : -23.3807,
     "longitude" : -47.3481
   },
   {
-    "key" : "JANDIRA-PM",
+    "key" : "JANDIRAPM",
     "name" : "Jandira Prefeitura",
     "latitude" : -23.5276,
     "longitude" : -46.8985
   },
   {
-    "key" : "JAU-PM",
+    "key" : "JAUPM",
     "name" : "Jaú Prefeitura",
     "latitude" : -22.2953,
     "longitude" : -48.5587
   },
   {
-    "key" : "JAÚ-PREV",
+    "key" : "JAUPREV",
     "name" : "Jaú Previdencia",
     "latitude" : -22.2890,
     "longitude" : -48.5589
   },
   {
-    "key" : "JAQUERY-FUNDAÇÃO",
+    "key" : "JAQUERYFUNDAÇÃO",
     "name" : "Jaquery Fundação",
     "latitude" : -23.3266,
     "longitude" : -46.7237
   },
   {
-  "key" : "LENÇÓISPAULISTA-PM",
+  "key" : "LENCOISPAULISTAPM",
    "name": "Lençoís Paulista Prefeitura",
     "latitude" : -22.6029,
     "longitude" : -48.8023
   },
   {
-    "key" : "LENÇÓISPAULISTA-PREV",
+    "key" : "LENÇÓISPAULISTAPREV",
     "name" : "Lençoís Paulista Previdencia",
     "latitude" : -22.5919,
     "longitude" : -48.8064
   },
   {
-    "key" : "LENÇÓISPAULISTA-SAAE",
+    "key" : "LENCOISPAULISTASAAE",
     "name" : "Lençoís Paulista Estação de tratamento de água",
     "latitude" : -22.5955,
     "longitude" : -48.8033
   },
   {
-    "key" : "LENÇÓISPAULISTA-CMFP",
+    "key" : "LENCOISPAULISTACMFP",
     "name" :"lencois paulista Guarujá Centro Municipal de Formação Profissional",
     "latitude" : -22.6107,
     "longitude" : -48.8019
   },
   {
-    "key" : "LENÇÓISPAULISTA-CM",
+    "key" : "LENCOISPAULISTACM",
     "name" : "Lençóis Paulista Câmara Municipal",
     "latitude" : -22.6034,
     "longitude" : -48.8031
   },
   {
-    "key" : "LIMEIRA-PM",
+    "key" : "LIMEIRAPM",
     "name" : "Limeira Prefeitura",
     "latitude" : -22.5726,
     "longitude" : -47.4091
   },
   {
-    "key" : "LIMEIRA-WEB",
+    "key" : "LIMEIRAWEB",
     "name" : "Limeira WEB",
     "latitude" : -22.5697,
     "longitude" : -47.4092
   },
   {
-    "key" : "LIMEIRA-EMDEL",
+    "key" : "LIMEIRAEMDEL",
     "name" : "Limeira Emdel",
     "latitude" : -22.5726,
     "longitude" : -47.4091
   },
   {
-    "key" : "LIMEIRA-CEPROSOM",
+    "key" : "LIMEIRACEPROSOM",
     "name" : "Limeira Centro de Promoção Social Municipal",
     "latitude" : -22.5623, 
     "longitude" : -47.3984
   },
   {
-    "key" : "MACATUBA-CM",
+    "key" : "MACATUBACM",
     "name" : "Macatuba Câmara Municipal ",
     "latitude" : -22.4992,
     "longitude" : -48.7077
   },
   {
-    "key" : "MAIRIPORÃ-PM",
+    "key" : "MAIRIPORAPM",
     "name" : "Mairiporã Prefeitura",
     "latitude" : -23.3210, 
     "longitude" : -46.5863
   },
   {
-    "key" : "MOGIDASCRUZES-CM",
+    "key" : "MOGIDASCRUZESCM",
     "name" : "Mogi das Cruzes Câmara Municipal ",
     "latitude" : -23.5187,
     "longitude" : -46.1842
   },
   {
-    "key" : "MOGIGUAÇU-PM",
+    "key" : "MOGIGUACUPM",
     "name" : "Mogi Guaçu Prefeitura",
     "latitude" : -22.3682,
     "longitude" : -46.9443
   },
   {
-    "key" : "NOVACAMPINA-PM",
+    "key" : "NOVACAMPINAPM",
     "name" : "Nova Campina Prefeitura",
     "latitude" : -24.1193, 
     "longitude" : -48.9074
   },
   {
-    "key" : "NOVACAMPINA-CM",
+    "key" : "NOVACAMPINACM",
     "name" : "Nova Campina Câmara Munincipal",
     "latitude" : -24.1222,
     "longitude" : -48.9059
   },
   {
-    "key" : "PIQUETE-PM",
+    "key" : "PIQUETEPM",
     "name" : "Piquete Prefeitura",
     "latitude" : -22.6164,
     "longitude" : -45.1715
   },
   {
-    "key" : "POA-PM",
+    "key" : "POAPM",
     "name" : "Poá Prefeitura",
     "latitude" : -23.5231,
     "longitude" : -46.3418
   },
   {
-    "key" : "PORTOFERREIRA-CM",
+    "key" : "PORTOFERREIRACM",
     "name" : "Porto Ferreira Câmara Municipal",
     "latitude" : -21.8509, 
     "longitude" : -47.4853
   },
   {
-    "key" : "PORTOFERREIRA-ARMPF",
+    "key" : "PORTOFERREIRAARMPF",
     "name" : "Porto Ferreira Agência Reguladora de Serviços Públicos do Município de Porto Ferreira ",
     "latitude" : -21.8540,
     "longitude" : -47.4807
   },
   {
-    "key" : "PRAIAGRANDE-PM",
+    "key" : "PRAIAGRANDEPM",
     "name" : "Praia Grande Prefeitura",
     "latitude" : -24.0305, 
     "longitude" : -46.4935
   },
   {
-    "key" : "PRAIAGRANDE-PREV",
+    "key" : "PRAIAGRANDEPREV",
     "name" : "Praia Grande Previdencia",
     "latitude" : -24.0132,
     "longitude" : -46.4639
   },
   {
-    "key" : "PRAIAGRANDE-CM",
+    "key" : "PRAIAGRANDECM",
     "name" : "Praia Grande Câmara",
     "latitude" : -24.0117,
     "longitude" : -46.4169
   },
   {
-    "key" : "RIOCLARO-PM",
+    "key" : "RIOCLAROPM",
     "name" : "Rio Claro Prefeitura",
     "latitude" : -22.4033, 
     "longitude" : -47.5594
   },
   {
-    "key" : "RIOCLARO-PREV",
+    "key" : "RIOCLAROPREV",
     "name" : "Rio Claro Previdencia",
     "latitude" : -22.3910,
     "longitude" : -47.5697
   },
   {
-    "key" : "RIOCLARO-SAUDE",
+    "key" : "RIOCLAROSAUDE",
     "name" : "Rio Claro Saúde", 
     "latitude" : -22.3957, 
     "longitude" : -47.5672
   },
   {
-    "key" : "SALTO-CÂMARA",
+    "key" : "SALTOCM",
     "name" : "Salto Câmara",     
     "latitude" : -23.2047,
     "longitude" : -47.2924
   },
   {
-    "key" : "SANTACRUZDAESPERANÇA",
+    "key" : "SANTACRUZDAESPERANCAPM",
     "name" : "Santa Cruz da Esperança Prefeitura",
     "latitude" : -21.2921,
     "longitude" : -47.4304
   },
   {
-    "key" : "SANTOANTONIODAALEGRIA-PM",
+    "key" : "SANTOANTONIODAALEGRIAPM",
     "name" : "Santo Antônio da Alegria Prefeitura",
     "latitude" : -21.0904,
     "longitude" : -47.1523
   },
   {
-    "key" : "SANTOANTONIODOJARDIM-PM",
+    "key" : "SANTOANTONIODOJARDIMPM",
     "name" : "Santo Antônio do Jardim Prefeitura ",
     "latitude" : -22.1134,
     "longitude" : -46.6834
   },
   {
-    "key" : "SANTOANTONIODOJARDIM-CM",
+    "key" : "SANTOANTONIODOJARDIMCM",
     "name" : "Santo Antônio do Jardim Câmara",
     "latitude" : -22.1128,
     "longitude" : -46.6835
   },
   {
-    "key" : "SAOCARLOS-CÂMARA",
+    "key" : "SAOCARLOSCM",
     "name" : "São Carlos Câmara",
     "latitude" : -22.0141,
     "longitude" : -47.8901
   },
   {
-    "key" : "SOROCABA-PM",
+    "key" : "SOROCABAPM",
     "name" : "Sorocaba Prefeitura",
     "latitude" : -23.4630,
     "longitude" : -47.4221
   },
   {
-    "key" : "SOROCABA-CÂMARA",
+    "key" : "SOROCABACM",
     "name" : "Sorocaba Câmara Municipal",
     "latitude" : -23.4763,
     "longitude" : -47.4240
   },
   {
-    "key" : "SOROCABA-SAUDE",
+    "key" : "SOROCABASAUDE",
     "name" : "Sorocaba Saude",   
     "latitude" : -23.5022,
     "longitude" : -47.4555
   },
   {
-    "key" : "SOROCABA-PREV",
+    "key" : "SOROCABAPREV",
     "name" : "Sorocaba Previdencia",
     "latitude" : -23.47847,
     "longitude" : -47.4726
   },
   {
-    "key" : "SOROCABA-PARQUE",
+    "key" : "SOROCABAPARQUE",
     "name" : "Sorocaba Parque munincipal",
     "latitude" : -23.4757,
     "longitude" : -47.4236
   },
   {
-    "key" : "SOROCABA-SAAE",
+    "key" : "SOROCABASAAE",
     "name" : "Sorocaba Serviço Autônomo de Água e Esgoto",
     "latitude" : -23.4623,
     "longitude" : -47.4531
   },
   {
-    "key" : "SOROCABA-URBES",
+    "key" : "SOROCABAURBES",
     "name" : "Sorocaba URBES",  
     "latitude" : -23.5001,
     "longitude" : -47.4630
   },
   {
-    "key" : "TABOÃODASERRA-PM",
+    "key" : "TABOAODASERRAPM",
     "name" : "Taboão da serra prefeitura",
     "latitude" : -23.6061,
     "longitude" : -46.7583
   },
   {
-    "key" : "TABOÃODASERRA-PREV",
+    "key" : "TABOAODASERRAPREV",
     "name" : "Taboão da Serra Previdencia",
     "latitude" : -23.6162,
     "longitude" : -46.7690
   },
   {
-    "key" : "TAUBATE-PM",
+    "key" : "TAUBATEPM",
     "name" : "Taubate Prefeitura",
     "latitude" : -23.0306,
     "longitude" : -45.5653
   },
   {
-    "key" : "TAUBATE PREV",
+    "key" : "TAUBATEPREV",
     "name" : "Taubate Previdencia",
     "latitude" : -23.0247
     "longitude" : -45.5558
   },
   {
-    "key" : "TAUBATE-CÂMARA",
+    "key" : "TAUBATECM",
     "name" : "Taubate Câmara", 
     "latitude" : -23.0313,
     "longitude" : -45.5687
   },
   {
-    "key" : "TAQUARITINGA-PM",
+    "key" : "TAQUARITINGAPM",
     "name" : "Taquaritinga Prefeitura",
     "latitude" : -21.4068,
     "longitude" : -48.5001
   },
   {
-    "key" : "TIETE-PM",
+    "key" : "TIETEPM",
     "name" : "Tiete Prefeitura", 
     "latitude" : -23.0967,
     "longitude" : -47.7154
   },
   {
-    "key" : "TIETE-DP",
+    "key" : "TIETEDP",
     "name" : "Tiete Departamento Pessoal",
     "latitude" : -23.0967,
     "longitude" : -47.7154
   },
   {
-    "key" : "VARGINHA-PM",
+    "key" : "VARGINHAPM",
     "name" : "Varginha Prefeitura",
     "latitude" : -21.5443,
     "longitude" : -45.4444
   },
   {
-    "key" : "VARGINHA-PREV",
+    "key" : "VARGINHAPREV",
     "name" : "Varginha Previdencia",
     "latitude" : -21.5388,
     "longitude" : -45.4359
   },
   {
-    "key" : "VARGINHA-SEMUL",
+    "key" : "VARGINHASEMUL",
     "name" : "Varginha Semul", 
     "latitude" : -21.5624,
     "longitude" : -45.4347
   },
   {
-    "key" : "VARGINHA-FUNCULT",
+    "key" : "VARGINHAFUNCULT",
     "name" : "Varginha Fundação Cultural",
     "latitude" :-21.5542,
     "longitude" : -45.4353
   },
   {
-    "key" : "VARGINHA-GUARDA",
+    "key" : "VARGINHAGUARDA",
     "name" : "Varginha Guarda Civil",
     "latitude" : -21.5616,
     "longitude" : -45.4493
