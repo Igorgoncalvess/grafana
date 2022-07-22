@@ -3,10 +3,7 @@
     "key" : "204",
     "name" : "204",
     "latitude" : -23.5510,
-    "longitude" : -46.6495,
-    "params": {
-        "imagetype": 1,
-        "image" : "https://downloads.conam.com.br/brasao_mairipora.png"
+    "longitude" : -46.6495
   },
   {
     "key" : "igor",
