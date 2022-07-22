@@ -212,7 +212,7 @@
   {
     "key" : "ITAPEVAPREV",
     "name" : "Itapeva Previdencia"
-    "latitude" : -23.9828
+    "latitude" : -23.9828,
     "longitude" : -48.8780
   },
   {
@@ -524,7 +524,7 @@
   {
     "key" : "TAUBATEPREV",
     "name" : "Taubate Previdencia",
-    "latitude" : -23.0247
+    "latitude" : -23.0247,
     "longitude" : -45.5558
   },
   {
