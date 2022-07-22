@@ -12,6 +12,12 @@
     "longitude" : -46.7907
   },
   {
+    "key" : "teste",
+    "name" : "test",
+    "latitude" : -22.3320,
+    "longitude" : -49.0691
+  },
+  {
     "key" : "BARRABONITA-PM",
     "name" : "Barra Bonita Prefeitura",
     "latitude" : -22.4940,
